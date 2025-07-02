@@ -1,0 +1,14 @@
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/bin/Debug/net8.0/Carrareo
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/bin/Debug/net8.0/Carrareo.deps.json
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/bin/Debug/net8.0/Carrareo.runtimeconfig.json
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/bin/Debug/net8.0/Carrareo.dll
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/bin/Debug/net8.0/Carrareo.pdb
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/Carrareo.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/Carrareo.AssemblyInfoInputs.cache
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/Carrareo.AssemblyInfo.cs
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/Carrareo.csproj.CoreCompileInputs.cache
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/Carrareo.dll
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/refint/Carrareo.dll
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/Carrareo.pdb
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/Carrareo.genruntimeconfig.cache
+/home/joao/Documentos/Projects/DotNet_Projects/Carrareo/obj/Debug/net8.0/ref/Carrareo.dll
